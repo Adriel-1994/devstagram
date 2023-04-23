@@ -4,14 +4,14 @@ Devstagram es una aplicación web similar a Instagram, diseñada específicament
 <h2>Funcionalidades</h2>
 La aplicación tiene las siguientes funcionalidades:
 
--Registro y inicio de sesión de usuarios.
--Perfiles de usuario, incluyendo biografía, foto de perfil y estadísticas de seguidores.
--Posibilidad de publicar capturas de pantalla de código.
--Búsqueda de publicaciones de otros usuarios.
--Sistema de seguidores y seguidos.
--Mensajería directa entre usuarios.
--Sistema de etiquetado de publicaciones.
--Sección de noticias con publicaciones destacadas de otros usuarios.
+-Registro y inicio de sesión de usuarios.<br>
+-Perfiles de usuario, incluyendo biografía, foto de perfil y estadísticas de seguidores.<br>
+-Posibilidad de publicar capturas de pantalla de código.<br>
+-Búsqueda de publicaciones de otros usuarios.<br>
+-Sistema de seguidores y seguidos.<br>
+-Mensajería directa entre usuarios.<br>
+-Sistema de etiquetado de publicaciones.<br>
+-Sección de noticias con publicaciones destacadas de otros usuarios.<br>
 -Tecnologías utilizadas
 
 <h2>Tecnologías</h2>
